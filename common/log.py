@@ -20,7 +20,7 @@ logging.debug('《--欢迎使用测试一针灵，一针灵---有病治病没病
 logging.debug('《--感谢周游、张文俊的工作--》')
 logging.debug('《--感谢领导，公司的支持--》')
 logging.debug('《--感谢所有人给我这次测试的机会--》')
-logging.debug('《--联系www.huijie.com ，领取精致新年大礼，开启梦幻面基旅程--》')
+logging.debug('《--联系www.xxxxxx.com ，领取精致新年大礼，开启梦幻面基旅程--》')
 logging.debug('《--惠借---掌握核心科技，阿迈瑞肯，上帝压狗--》')
 logging.debug('《--开始测试啦，黑喂狗，汪涵--》')
 
